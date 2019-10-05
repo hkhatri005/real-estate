@@ -4,4 +4,3 @@ __pycache__
 django-hotel
 venv
 *.sqlite3
-/static
